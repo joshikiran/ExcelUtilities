@@ -1,0 +1,94 @@
+
+<Project
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="68172948-CECE-11E4-ECAF-DA7DA6F01F8F">
+	<DocumentID>68172948-CECE-11E4-ECAF-DA7DA6EFFF8F</DocumentID>
+	<Name>ExcelUtilities</Name>
+	<Description>ExcelUtilities</Description>
+	<CreatedBy>cordysuser</CreatedBy>
+	<CreationDate>2014-11-06T06:33:34.985</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			RuntimeDocumentID="68172948-CECE-11E4-ECAF-DA7DA6F19F8F">
+			<DocumentID>68172948-CECE-11E4-ECAF-DA7DA6F17F8F</DocumentID>
+			<Name>Dark Horse Excel Utilities</Name>
+			<Description>Dark Horse Excel Utilities</Description>
+			<CreatedBy>cordysuser</CreatedBy>
+			<CreationDate>2014-11-06T06:33:34.984</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<ISVPackageFileName>Dark Horse Excel Utilities 1.0.0</ISVPackageFileName>
+			<ISVPackageOwner>Dark Horse</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>Excel Utilities</Product>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="68172948-CECE-11E4-ECAF-DA7DA6F13F8F"
+			path="ExcelUtilities"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="68172948-CECE-11E4-ECAF-DA7DA6F05F8F">
+			<DocumentID>68172948-CECE-11E4-ECAF-DA7DA6F03F8F</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description/>
+			<CreatedBy>cordysuser</CreatedBy>
+			<CreationDate>2014-11-06T06:33:34.987</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="68172948-CECE-11E4-ECAF-DA7DA6F0DF8F">
+					<DocumentID>68172948-CECE-11E4-ECAF-DA7DA6F0BF8F</DocumentID>
+					<Name>en-US</Name>
+					<Description/>
+					<CreatedBy>cordysuser</CreatedBy>
+					<CreationDate>2014-11-06T06:33:34.986</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="68172948-CECE-11E4-ECAF-DA7DA6F0FF8F"
+							path="ExcelUtilities/en-US_68172948-CECE-11E4-ECAF-DA7DA6F0FF8F"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="68172948-CECE-11E4-ECAF-DA7DA6F03F8F"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="68172948-CECE-11E4-ECAF-DA7DA6F0BF8F"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="68172948-CECE-11E4-ECAF-DA7DA6F07F8F"
+					path="ExcelUtilities/TranslationInformation_68172948-CECE-11E4-ECAF-DA7DA6F07F8F"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>

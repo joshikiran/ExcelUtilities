@@ -1,0 +1,19 @@
+
+<QualifiedNameRoot
+	type="com.cordys.cws.namespace.qualifiedname.QualifiedNameRoot"
+	RuntimeDocumentID="68172948-CECE-11E4-ECAF-DA7DA6F2BF8F">
+	<DocumentID>68172948-CECE-11E4-ECAF-DA7DA6F29F8F</DocumentID>
+	<Name>designtimeQNR for project</Name>
+	<Description/>
+	<CreatedBy>cordysuser</CreatedBy>
+	<CreationDate>2014-11-06T06:33:34.986</CreationDate>
+	<Notes/>
+	<DesigntimeQNRFolder>
+		<uri
+			id="68172948-CECE-11E4-ECAF-DA7DA6F13F8F"
+			path="Excel Utilities"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</DesigntimeQNRFolder>
+	<RuntimeQNRFolder/>
+</QualifiedNameRoot>

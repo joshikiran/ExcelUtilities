@@ -1,0 +1,16 @@
+
+<RoleDesignTime
+	type="com.cordys.organization.role.RoleDesignTime"
+	RuntimeDocumentID="9FB2A64A-B28B-11E4-F9B1-9270B548B9FB">
+	<DocumentID>9FB2A64A-B28B-11E4-F9B1-9270B54899FB</DocumentID>
+	<Name>ExcelUtilUser</Name>
+	<Description>ExcelUtilUser</Description>
+	<CreatedBy>cordysuser</CreatedBy>
+	<CreationDate>2015-03-18T16:48:37.524</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<isFunctionalRole>true</isFunctionalRole>
+	<type>Functional</type>
+	<Subroles/>
+	<configuredTasks/>
+</RoleDesignTime>

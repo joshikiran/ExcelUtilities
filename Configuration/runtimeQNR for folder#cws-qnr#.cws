@@ -1,0 +1,19 @@
+
+<QualifiedNameRoot
+	type="com.cordys.cws.namespace.qualifiedname.QualifiedNameRoot"
+	RuntimeDocumentID="9FB2A64A-B28B-11E4-F9B0-653BB5C8F9FB">
+	<DocumentID>9FB2A64A-B28B-11E4-F9B0-653BB5C8D9FB</DocumentID>
+	<Name>runtimeQNR for folder</Name>
+	<Description>runtimeQNR for folder</Description>
+	<CreatedBy>cordysuser</CreatedBy>
+	<CreationDate>2015-03-18T16:28:53.32</CreationDate>
+	<Notes/>
+	<DesigntimeQNRFolder/>
+	<RuntimeQNRFolder>
+		<uri
+			id="9FB2A64A-B28B-11E4-F9B0-653BB5CE99FB"
+			path="ExcelUtilities/Configuration"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</RuntimeQNRFolder>
+</QualifiedNameRoot>
